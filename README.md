@@ -2,19 +2,19 @@
 Using AE and VAE for MNIST and Fashion MNIST dataset
 
 ### AutoEncode在MNIST上結果
-![alt-text](https://upload.cc/i1/2023/01/05/WvoUBM.png "AE-mnist")
+![alt-text](https://github.com/00557134/AutoEncoder_implement/blob/main/figures/AE_mnist_50epochs.PNG "AE-mnist")
 
 ### AutoEncode在Fashion MNIST上結果
-![alt-text](https://upload.cc/i1/2023/01/05/vc7Tpq.png "AE-fashion-mnist")
+![alt-text](https://github.com/00557134/AutoEncoder_implement/blob/main/figures/AE_fshion_mnist_50epochs.PNG "AE-fashion-mnist")
 
 ### VAE在MNIST上結果和空間分布
-![alt-text](https://upload.cc/i1/2023/01/05/ZL4pYV.png "VAE-mnist")
+![alt-text](https://github.com/00557134/AutoEncoder_implement/blob/main/figures/VAE_mnist_epoch15.PNG "VAE-mnist")
 
-![alt-text](https://upload.cc/i1/2023/01/05/2UMkoQ.png "VAE-mnist-distribution")
-![alt-text](https://upload.cc/i1/2023/01/05/k8u7lo.png "VAE-distribution")
+![alt-text](https://github.com/00557134/AutoEncoder_implement/blob/main/figures/VAE_mnist_distribution.png "VAE-mnist-distribution")
+![alt-text](https://github.com/00557134/AutoEncoder_implement/blob/main/figures/Distribution_mnist.png "VAE-distribution")
 
 ### VAE在Fashion MNIST上結果和空間分布
-![alt-text](https://upload.cc/i1/2023/01/05/PUZzSt.png "VAE-fashion-mnist")
+![alt-text](https://github.com/00557134/AutoEncoder_implement/blob/main/figures/VAE_fashion_mnist_epoch15.PNG "VAE-fashion-mnist")
 
-![alt-text](https://upload.cc/i1/2023/01/05/syiqej.png "VAE-fashion-mnist-distribution")
-![alt-text](https://upload.cc/i1/2023/01/05/MkOrpb.png "VAE-distribution-fashion")
+![alt-text](https://github.com/00557134/AutoEncoder_implement/blob/main/figures/VAE_fashion_mnist_distribution.png "VAE-fashion-mnist-distribution")
+![alt-text](https://github.com/00557134/AutoEncoder_implement/blob/main/figures/Distribution_fashion_mnist.png "VAE-distribution-fashion")
